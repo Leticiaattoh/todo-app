@@ -1,5 +1,5 @@
 import './App.css'
-import Todos from './pages/todos'
+import Todos from './pages/Todos'
 import AddTodo from './pages/AddTodo'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
